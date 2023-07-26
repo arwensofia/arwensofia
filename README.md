@@ -50,6 +50,6 @@ I'm currently studying C and Python and I'm eager to dive deeper into their uniq
 
 <h2 align="center">Have a good day!</h2>
 
-![gif](https://media.tenor.com/h1MIK-LBa94AAAAi/ribbon-heart.gif) ![gif](https://media.tenor.com/h1MIK-LBa94AAAAi/ribbon-heart.gif) ![gif](https://media.tenor.com/h1MIK-LBa94AAAAi/ribbon-heart.gif) ![gif](https://media.tenor.com/h1MIK-LBa94AAAAi/ribbon-heart.gif)
+![gif](https://media.tenor.com/h1MIK-LBa94AAAAi/ribbon-heart.gif) ![gif](https://media.tenor.com/h1MIK-LBa94AAAAi/ribbon-heart.gif) ![gif]
 
 ![gif](https://raw.githubusercontent.com/fnky/fnky/fnky/img/smile.gif) 
