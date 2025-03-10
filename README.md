@@ -1,15 +1,14 @@
 ![picture](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png)
 
-![gif](https://pbs.twimg.com/media/EvuvkskUcAEMvEf?format=jpg&name=large)
-
-## hello :sparkles:
-
+<h3 align="middle">hello</h3>
+  
 🌟 segfault KO  
 🤝 compilation errors  
-🚀 ternaries  
+🚀 ternaries
+
+![gif](https://raw.githubusercontent.com/fnky/fnky/fnky/img/smile.gif)
 
 <br>
-
 </br>
 
 <h3 align="left">Languages</h3>
@@ -24,11 +23,7 @@
 
 
 
-
-
-
-
 </br>
 
 
-![gif](https://raw.githubusercontent.com/fnky/fnky/fnky/img/smile.gif) 
+![gif](https://giffiles.alphacoders.com/105/105694.gif)
