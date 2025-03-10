@@ -2,10 +2,12 @@
 
 ![picture](https://pbs.twimg.com/media/EvuvkskUcAEMvEf?format=jpg&name=large)
 
-## Aspiring Programmer :sparkles:
+## hello :sparkles:
 
-Curious and a passionate explorer of the digital realm, constantly seeking to unravel the mysteries of life. 🤔
-I'm currently studying C and Python and I'm eager to dive deeper into their unique features and applications!
+🌟 segfault KO  
+🤝 compilation errors  
+🚀 ternaries  
+
 <br>
 
 </br>
@@ -15,11 +17,6 @@ I'm currently studying C and Python and I'm eager to dive deeper into their uniq
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-🌟 segfault KO  
-🤝 compilation errors  
-🚀 ternaries  
-
 
 <br>
 
