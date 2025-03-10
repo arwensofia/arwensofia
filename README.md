@@ -1,9 +1,9 @@
-![image](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png)
+![image](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png) 
 
 <p>
   I'm Arwen, from <img src="https://cdn-icons-png.flaticon.com/128/197/197585.png" width="13"/> <b>Helsinki, Finland</b>.
   <br>
-  I’m currently a design student, specialising in XR, AR and VR design.
+  I’m currently a design student specialising in XR, AR and VR design.
   </br>
 
 </p>
@@ -48,10 +48,8 @@
 
 </p>
 
-![gif](https://giffiles.alphacoders.com/105/105694.gif)
+![gif](https://giffiles.alphacoders.com/105/105694.gif) ![gif](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true) 
 
 <h4>Where To Find Me</h4>
-<p><a href="https://github.com/arwensofia" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/arwen-elazegui" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p><a href="https://github.com/arwensofia" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/arwen-elazegui" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <img src="https://img.shields.io/badge/arwensofia@yahoo.com-black?style=for-the-badge" />
 </p>
-
-![gif](https://raw.githubusercontent.com/fnky/fnky/fnky/img/smile.gif)
