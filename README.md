@@ -1,6 +1,6 @@
 ![picture](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png)
 
-![gif]([https://pbs.twimg.com/media/EvuvkskUcAEMvEf?format=jpg&name=large](https://giffiles.alphacoders.com/105/105694.gif))
+![gif](https://pbs.twimg.com/media/EvuvkskUcAEMvEf?format=jpg&name=large](https://giffiles.alphacoders.com/105/105694.gif)
 
 ## hello :sparkles:
 
