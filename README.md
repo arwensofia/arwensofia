@@ -1,23 +1,46 @@
-![picture](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png)
+![image](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png)
 
-<h3 align="middle">hello</h3>
-  
+<p> I'm Arwen, from <img src="https://cdn-icons-png.flaticon.com/128/197/197585.png" width="13"/> <b>Helsinki, Finland</b>. </p>
+
 🌟 segfault KO  
 🤝 compilation errors  
 🚀 ternaries
 
-![gif](https://raw.githubusercontent.com/fnky/fnky/fnky/img/smile.gif)
 
-<br>
-</br>
+<h4 align="left">Things I Use (Technical)</h4>
 
-<h3 align="left">Languages</h3>
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Linux-323330?style=for-the-badge&logo=linux&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/mac%20OS-000000?style=for-the-badge&logoColor=white" />
+</p>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<h4 align="left">Things I Use (Creative)</h4>
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Blender-black?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/ZBrush-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=adobe&logoColor=red" />
+  <img src="https://img.shields.io/badge/Illustrator-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Substance-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Premiere-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Lightroom-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fresco-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Final Cut Pro-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Procreate-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Canva-black?style=for-the-badge" />
+
+</p>
 
 <br>
 
@@ -27,3 +50,5 @@
 
 
 ![gif](https://giffiles.alphacoders.com/105/105694.gif)
+
+![gif](https://raw.githubusercontent.com/fnky/fnky/fnky/img/smile.gif)
