@@ -12,6 +12,8 @@
 
 </br>
 
+<h3 align="center">Languages</h3>
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -27,13 +29,6 @@
 
 
 </br>
-  
 
-
-</br>
-
-<h2 align="center">Have a good day!</h2>
-
-![gif](https://media.tenor.com/h1MIK-LBa94AAAAi/ribbon-heart.gif) ![gif](https://media.tenor.com/h1MIK-LBa94AAAAi/ribbon-heart.gif)
 
 ![gif](https://raw.githubusercontent.com/fnky/fnky/fnky/img/smile.gif) 
